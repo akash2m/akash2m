@@ -1,4 +1,5 @@
-## Hi there 👋
+![logo](https://github.com/akash2m/akash2m/blob/main/Akash%20Vaibhav_Banner.png)
+<h1 align="center">Hi there 👋, I'm Akash Vaibhav</h1>
 
 <!--
 **akash2m/akash2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
