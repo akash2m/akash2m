@@ -1,6 +1,6 @@
 ![logo](https://github.com/akash2m/akash2m/blob/main/Akash%20Vaibhav_Banner.png)
-<h1 align="center">Hi there 👋, I'm Akash Vaibhav</h1>
-
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=30&pause=1000&color=F7A810&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Akash+Vaibhav!%E2%9A%A1" alt="Typing SVG" /></a></h1>
+<h3 align="center"> Innovating Today🚀, Crafting a Smarter World for Tomorrow🌍.</h3>
 <!--
 **akash2m/akash2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
